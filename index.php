@@ -6,4 +6,5 @@ echo "Hello World! and this file is from pep app server in south east asia and e
 echo "Today is " . date("Y/m/d") . "<br>";
 echo "Today is " . date("Y.m.d") . "<br>";
 echo "Today is " . date("Y-m-d") . "<br>";
-echo "Today is " . date("l");
+echo "Today is " . date("l") . "<br>" ;
+echo "--------------------"
